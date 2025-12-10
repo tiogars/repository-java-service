@@ -6,12 +6,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>fr.tiogars</groupId>
-  <artifactId>java-public-lib</artifactId>
-  <version>1.0.11-SNAPSHOT</version>
+  <artifactId>repository-java-service</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
 
-  <name>java-public-lib</name>
-  <description>Java Public Library</description>
-  <url>http://www.example.com</url>
+  <name>repository-java-service</name>
+  <description>Java Service for Repository management</description>
+  <url>https://tiogars.github.io/repository-java-service</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -23,7 +23,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/tiogars/java-public-lib</url>
+      <url>https://maven.pkg.github.com/tiogars/repository-java-service</url>
     </repository>
   </distributionManagement>
 
